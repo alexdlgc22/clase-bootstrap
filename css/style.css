@@ -2,3 +2,17 @@
     margin: 0;
     padding: 0;
 }
+.bg-primary{
+    /* No es una practica recomendable (5 maximo en todo el css) */
+    background-color: yellow !important;
+}
+
+
+
+.lead{
+    font-size: 2rem;
+}
+
+.colorRojo{
+    background-color: darkred;
+}
